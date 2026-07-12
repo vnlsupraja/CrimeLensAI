@@ -1,0 +1,101 @@
+station_id,station_name,district,officer_name,contact_number
+PS0001,Bagalkot Town,Bagalkot,Inspector Bagalkot Town,080-34942603
+PS0002,Bagalkot Rural,Bagalkot,Inspector Bagalkot Rural,080-23356886
+PS0003,Bagalkot East,Bagalkot,Inspector Bagalkot East,080-56913810
+PS0004,Ballari Town,Ballari,Inspector Ballari Town,080-52868828
+PS0005,Ballari Rural,Ballari,Inspector Ballari Rural,080-49958838
+PS0006,Ballari East,Ballari,Inspector Ballari East,080-38728463
+PS0007,Camp,Belagavi,Inspector Camp,080-33756669
+PS0008,Tilakwadi,Belagavi,Inspector Tilakwadi,080-93197857
+PS0009,Market,Belagavi,Inspector Market,080-31668732
+PS0010,Bengaluru Rural Town,Bengaluru Rural,Inspector Bengaluru Rural Town,080-99254563
+PS0011,Bengaluru Rural Rural,Bengaluru Rural,Inspector Bengaluru Rural Rural,080-76629388
+PS0012,Bengaluru Rural East,Bengaluru Rural,Inspector Bengaluru Rural East,080-24265799
+PS0013,Ashok Nagar,Bengaluru Urban,Inspector Ashok Nagar,080-23999315
+PS0014,Cubbon Park,Bengaluru Urban,Inspector Cubbon Park,080-32575562
+PS0015,Electronic City,Bengaluru Urban,Inspector Electronic City,080-49345092
+PS0016,Indiranagar,Bengaluru Urban,Inspector Indiranagar,080-51227216
+PS0017,Jayanagar,Bengaluru Urban,Inspector Jayanagar,080-87827638
+PS0018,Koramangala,Bengaluru Urban,Inspector Koramangala,080-23561597
+PS0019,Madiwala,Bengaluru Urban,Inspector Madiwala,080-95329037
+PS0020,Whitefield,Bengaluru Urban,Inspector Whitefield,080-46687537
+PS0021,Yelahanka,Bengaluru Urban,Inspector Yelahanka,080-93140807
+PS0022,Bidar Town,Bidar,Inspector Bidar Town,080-76306997
+PS0023,Bidar Rural,Bidar,Inspector Bidar Rural,080-49587039
+PS0024,Bidar East,Bidar,Inspector Bidar East,080-80291817
+PS0025,Chamarajanagar Town,Chamarajanagar,Inspector Chamarajanagar Town,080-99089901
+PS0026,Chamarajanagar Rural,Chamarajanagar,Inspector Chamarajanagar Rural,080-57338124
+PS0027,Chamarajanagar East,Chamarajanagar,Inspector Chamarajanagar East,080-20872248
+PS0028,Chikkaballapur Town,Chikkaballapur,Inspector Chikkaballapur Town,080-41429110
+PS0029,Chikkaballapur Rural,Chikkaballapur,Inspector Chikkaballapur Rural,080-76722344
+PS0030,Chikkaballapur East,Chikkaballapur,Inspector Chikkaballapur East,080-65667651
+PS0031,Chikkamagaluru Town,Chikkamagaluru,Inspector Chikkamagaluru Town,080-57295260
+PS0032,Chikkamagaluru Rural,Chikkamagaluru,Inspector Chikkamagaluru Rural,080-40868105
+PS0033,Chikkamagaluru East,Chikkamagaluru,Inspector Chikkamagaluru East,080-48898923
+PS0034,Chitradurga Town,Chitradurga,Inspector Chitradurga Town,080-65176955
+PS0035,Chitradurga Rural,Chitradurga,Inspector Chitradurga Rural,080-33718431
+PS0036,Chitradurga East,Chitradurga,Inspector Chitradurga East,080-32448136
+PS0037,Pandeshwar,Dakshina Kannada,Inspector Pandeshwar,080-70992979
+PS0038,Barke,Dakshina Kannada,Inspector Barke,080-32981052
+PS0039,Kankanady,Dakshina Kannada,Inspector Kankanady,080-68181396
+PS0040,Davanagere Town,Davanagere,Inspector Davanagere Town,080-66164955
+PS0041,Davanagere Rural,Davanagere,Inspector Davanagere Rural,080-55503389
+PS0042,Davanagere East,Davanagere,Inspector Davanagere East,080-25831819
+PS0043,Dharwad Town,Dharwad,Inspector Dharwad Town,080-81662963
+PS0044,Dharwad Rural,Dharwad,Inspector Dharwad Rural,080-91971316
+PS0045,Dharwad East,Dharwad,Inspector Dharwad East,080-36753883
+PS0046,Gadag Town,Gadag,Inspector Gadag Town,080-70806024
+PS0047,Gadag Rural,Gadag,Inspector Gadag Rural,080-30576383
+PS0048,Gadag East,Gadag,Inspector Gadag East,080-94093639
+PS0049,Hassan Town,Hassan,Inspector Hassan Town,080-59349722
+PS0050,Hassan Rural,Hassan,Inspector Hassan Rural,080-68537831
+PS0051,Hassan East,Hassan,Inspector Hassan East,080-97490893
+PS0052,Haveri Town,Haveri,Inspector Haveri Town,080-45808537
+PS0053,Haveri Rural,Haveri,Inspector Haveri Rural,080-29335534
+PS0054,Haveri East,Haveri,Inspector Haveri East,080-26150444
+PS0055,Kalaburagi Town,Kalaburagi,Inspector Kalaburagi Town,080-50587988
+PS0056,Kalaburagi Rural,Kalaburagi,Inspector Kalaburagi Rural,080-58840994
+PS0057,Kalaburagi East,Kalaburagi,Inspector Kalaburagi East,080-30709497
+PS0058,Kodagu Town,Kodagu,Inspector Kodagu Town,080-51244663
+PS0059,Kodagu Rural,Kodagu,Inspector Kodagu Rural,080-33556182
+PS0060,Kodagu East,Kodagu,Inspector Kodagu East,080-71019678
+PS0061,Kolar Town,Kolar,Inspector Kolar Town,080-57308985
+PS0062,Kolar Rural,Kolar,Inspector Kolar Rural,080-80855700
+PS0063,Kolar East,Kolar,Inspector Kolar East,080-68966946
+PS0064,Koppal Town,Koppal,Inspector Koppal Town,080-41831063
+PS0065,Koppal Rural,Koppal,Inspector Koppal Rural,080-69684848
+PS0066,Koppal East,Koppal,Inspector Koppal East,080-67683626
+PS0067,Mandya Town,Mandya,Inspector Mandya Town,080-48119557
+PS0068,Mandya Rural,Mandya,Inspector Mandya Rural,080-55833156
+PS0069,Mandya East,Mandya,Inspector Mandya East,080-29583482
+PS0070,Nazarbad,Mysuru,Inspector Nazarbad,080-42969840
+PS0071,Vijayanagar,Mysuru,Inspector Vijayanagar,080-91691040
+PS0072,Lashkar,Mysuru,Inspector Lashkar,080-52857966
+PS0073,Devaraja,Mysuru,Inspector Devaraja,080-41931511
+PS0074,Raichur Town,Raichur,Inspector Raichur Town,080-82043515
+PS0075,Raichur Rural,Raichur,Inspector Raichur Rural,080-70929647
+PS0076,Raichur East,Raichur,Inspector Raichur East,080-56231783
+PS0077,Ramanagara Town,Ramanagara,Inspector Ramanagara Town,080-94752529
+PS0078,Ramanagara Rural,Ramanagara,Inspector Ramanagara Rural,080-49476249
+PS0079,Ramanagara East,Ramanagara,Inspector Ramanagara East,080-63524491
+PS0080,Shivamogga Town,Shivamogga,Inspector Shivamogga Town,080-27507864
+PS0081,Shivamogga Rural,Shivamogga,Inspector Shivamogga Rural,080-50742311
+PS0082,Shivamogga East,Shivamogga,Inspector Shivamogga East,080-24308421
+PS0083,Tumakuru Town,Tumakuru,Inspector Tumakuru Town,080-62339391
+PS0084,Tumakuru Rural,Tumakuru,Inspector Tumakuru Rural,080-73843426
+PS0085,Tumakuru East,Tumakuru,Inspector Tumakuru East,080-55935572
+PS0086,Udupi Town,Udupi,Inspector Udupi Town,080-28883684
+PS0087,Udupi Rural,Udupi,Inspector Udupi Rural,080-48317637
+PS0088,Udupi East,Udupi,Inspector Udupi East,080-96125617
+PS0089,Uttara Kannada Town,Uttara Kannada,Inspector Uttara Kannada Town,080-62235350
+PS0090,Uttara Kannada Rural,Uttara Kannada,Inspector Uttara Kannada Rural,080-48538251
+PS0091,Uttara Kannada East,Uttara Kannada,Inspector Uttara Kannada East,080-87005685
+PS0092,Vijayapura Town,Vijayapura,Inspector Vijayapura Town,080-73100814
+PS0093,Vijayapura Rural,Vijayapura,Inspector Vijayapura Rural,080-81586053
+PS0094,Vijayapura East,Vijayapura,Inspector Vijayapura East,080-39175900
+PS0095,Vijayanagara Town,Vijayanagara,Inspector Vijayanagara Town,080-55551614
+PS0096,Vijayanagara Rural,Vijayanagara,Inspector Vijayanagara Rural,080-38740864
+PS0097,Vijayanagara East,Vijayanagara,Inspector Vijayanagara East,080-53101783
+PS0098,Yadgir Town,Yadgir,Inspector Yadgir Town,080-95345555
+PS0099,Yadgir Rural,Yadgir,Inspector Yadgir Rural,080-92340307
+PS0100,Yadgir East,Yadgir,Inspector Yadgir East,080-55264581

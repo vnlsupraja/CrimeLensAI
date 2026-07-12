@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "targets": [
+      "import_dataset"
+    ],
+    "ignore": [
+      ".build",
+      "__pycache__"
+    ],
+    "source": "functions"
+  }
+}
